@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cookie King<br>🌱 I’m currently learning NODEJs , Python<br>💬 Playing with LLM's on LM Studio
+🔭 I’m currently working on Nucleo Mod<br>🌱 I’m currently learning NODEJs , Python<br>💬 Playing with LLM's on LM Studio
 
 
 ## 🌐 Socials:
